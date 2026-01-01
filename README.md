@@ -1,2 +1,2 @@
 # Game-developing
-Game about surviving 
+Game about surviving i
