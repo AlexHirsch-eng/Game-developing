@@ -1,2 +1,2 @@
 # Game-developing
-Game about surviving in z
+Game about surviving in zo
